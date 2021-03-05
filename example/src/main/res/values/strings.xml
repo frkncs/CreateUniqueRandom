@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="createrandomuniqueintarray">Create Random Unique Int Array</string>
+    <string name="createrandomuniquedoublearray">Create Random Unique Double Array</string>
+</resources>
